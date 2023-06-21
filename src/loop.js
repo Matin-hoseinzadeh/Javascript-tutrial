@@ -7,6 +7,8 @@ for (let x = 0; ++x < 5;) alert(x);
 
 
 
+
+
 // ---- EXERSICE 2 ----
 let test1 = confirm(
   'Show even numbers in Alert'

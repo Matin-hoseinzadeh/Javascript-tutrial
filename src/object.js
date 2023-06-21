@@ -9,6 +9,10 @@ user.name = 'Pete';
 delete user.name;
 
 
+
+
+
+
 // ---- EXERSICE 2 ----
 let schedule = {};
 isEmpty(schedule);

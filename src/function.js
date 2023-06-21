@@ -6,6 +6,8 @@ function checkAge(age) {
   return (age > 18) ? true : confirm('Did parents allow you?');
 }
 
+
+
 // function checkAge(age) {
 //   return (age > 18) || confirm('Did parents allow you?');
 // }
@@ -22,11 +24,14 @@ function min(x, y) {
   } else {
     alert(y);
   }
+
 }
 
 
+
+
 //-- --EXERSICE 3-- --
-let FirstValue = prompt('Enter value 1');
+let FirstValue = prompt("Enter value 1");
 let SecondValue = prompt('Enter value 2');
 
 pow(FirstValue, SecondValue);
