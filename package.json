@@ -1,0 +1,22 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matin-hoseinzadeh/Javascript-tutrial.git"
+  },
+  "author": "Matin hosein zadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matin-hoseinzadeh/Javascript-tutrial/issues"
+  },
+  "homepage": "https://github.com/Matin-hoseinzadeh/Javascript-tutrial#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
